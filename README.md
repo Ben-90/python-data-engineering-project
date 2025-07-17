@@ -10,12 +10,6 @@ Ce projet a été réalisé dans le cadre du cours **"Python Project for Data En
 - Créer un mini pipeline ETL
 - Nettoyer et analyser des données avec pandas
 
-## 📂 Contenu du projet
-
-- `notebooks/final_project.ipynb` : Notebook principal du projet
-- `scripts/etl_pipeline.py` : Script Python du pipeline ETL *(si présent)*
-- `data/` : Jeux de données utilisés (si applicable)
-
 ## 🔧 Technologies utilisées
 
 - Python 3
