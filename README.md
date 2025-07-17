@@ -23,14 +23,6 @@ Ce projet a été réalisé dans le cadre du cours **"Python Project for Data En
 - SQLite
 - Jupyter Notebook
 
-## 🙏 Remerciements
-
-Merci à :
-
-- **IBM** pour la qualité de la formation
-- **Coursera** pour la plateforme d’apprentissage
-- **Orange Digital Center** pour le soutien et l’accompagnement
-- Les formateurs : *Ramesh Sannareddy, Joseph Santarcangelo, Abhishek Gagneja*
 
 ## 📌 Auteur
 
