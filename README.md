@@ -1,7 +1,7 @@
 # python-data-engineering-project
 # 🐍 Python Project for Data Engineering
 
-Ce projet a été réalisé dans le cadre du cours **"Python Project for Data Engineering"**, proposé par **IBM** via **Coursera**, en partenariat avec **Orange Digital Center**.
+Ce projet a été réalisé dans le cadre du cours **"Python Project for Data Engineering"**, proposé par **IBM** via **Coursera**
 
 ## 🎯 Objectifs
 
